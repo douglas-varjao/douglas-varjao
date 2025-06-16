@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Douglas Varjão</h1>
+<h1 align="center">Eae, eu sou o Varjão</h1>
 <h3 align="center">Estudante de Inteligência Artificial e Ciência de Dados, com foco em automação e sistemas inteligentes.</h3>
 
 - 🌱 Aprendendo atualmente: **Python, Análise de Dados, Machine Learning, Deep Learning e Inteligência Artificial.**
