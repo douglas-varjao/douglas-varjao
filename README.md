@@ -11,7 +11,7 @@
 
 - 💬 Pergunte-me sobre: **IA, Ciência de Dados, Python, SQL, Automação e Análise de Sistemas.**
 
-- 📄 Saiba mais sobre minhas experiências: [https://www.linkedin.com/](https://www.linkedin.com/)
+- 📄 Saiba mais sobre minhas experiências: [https://www.linkedin.com/](https://www.linkedin.com/in/douglas-vm-varjao)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
