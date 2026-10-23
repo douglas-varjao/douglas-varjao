@@ -58,4 +58,3 @@ Python · 2%
 
 ---
 
-<div align="center"><sub>CLASSIFIEDS · <a href="https://github.com/douglas-varjao">GitHub</a> · <a href="https://douglas-varjao.github.io/">Website</a> · Printed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></div>
