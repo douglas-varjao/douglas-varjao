@@ -50,11 +50,4 @@ Python · 2%
 
 > Douglas Varjão builds software in public on GitHub.
 
-### Activity forecast
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=douglas-varjao&theme=zen" alt="douglas-varjao contribution activity" />
-</p>
-
----
 
