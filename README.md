@@ -1,34 +1,61 @@
-<h1 align="center">Eae, eu sou o Varjão</h1>
-<h3 align="center">MIS Analyst Pleno | Especialista em Automação & Pós-graduando em Machine Learning Engineering</h3>
+<div align="center">
 
-- 🌱 Atualmente focado em: **Engenharia de Machine Learning, arquiteturas em nuvem (AWS S3, Glue, PySpark) e escrevendo meu e-book "IA para estudantes".**
+<sub>VOL. 2026 · No. 93 · São Paulo · github.com/douglas-varjao</sub>
 
-- 👯 Procurando colaborar em: **Projetos de automação de dados, desenvolvimento de APIs (FastAPI/Flask) e soluções escaláveis.**
+# The Douglas Varjão Times
 
-- 🤝 Procuro ajuda com: **Melhores práticas para deploy de modelos avançados de ML e otimização de arquiteturas AWS.**
+<sub><b>BACKEND OR SYSTEMS ENGINEER</b> · ALL THE CODE THAT'S FIT TO SHIP</sub>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://douglas-varjao.github.io/](https://douglas-varjao.github.io/)
+</div>
 
-- 💬 Pergunte-me sobre: **Python (Pandas, SQLAlchemy), ecossistema Linux (Ubuntu), SQL e arquitetura de dados.**
+---
 
-- 📄 Saiba mais sobre minhas experiências: [https://www.linkedin.com/in/douglas-vm-varjao](https://www.linkedin.com/in/douglas-vm-varjao)
+**9** public repositories, **0** stars, **93** contributions in the last year, a longest streak of **4** days and **3** followers.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/douglas-vm-varjao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<table>
+<tr>
+<td width="44%" valign="top">
+
+### Top stories
+
+<b><a href="https://github.com/douglas-varjao/papers-we-love">papers-we-love</a></b> · ★ 1<br/><sub>Papers from the computer science community to read and discuss.</sub><br/><br/>
+<a href="https://github.com/douglas-varjao/coding-interview-university">coding-interview-university</a> · ★ 1<br/><sub>A complete computer science study plan to become a software engineer.</sub><br/><br/>
+<a href="https://github.com/douglas-varjao/lstm-stock-forecast-api">lstm-stock-forecast-api</a> · ★ 0<br/><sub>A public project on GitHub.</sub><br/><br/>
+<a href="https://github.com/douglas-varjao/TechChallenge-Fase3-AtrasosVoos">TechChallenge-Fase3-AtrasosVoos</a> · ★ 0<br/><sub>Projeto de Machine Learning e Explicabilidade (XAI) para previsão de atrasos de voos (Tech Challenge Fase 3).</sub>
+
+</td>
+<td width="28%" valign="top">
+
+### By the numbers
+
+Repositories: <b>9</b><br/>
+Stars: <b>0</b><br/>
+Contributions: <b>93</b><br/>
+Longest streak: <b>4 days</b><br/>
+Followers: <b>3</b>
+
+</td>
+<td width="28%" valign="top">
+
+### Languages
+
+Jupyter Notebook · 97%<br/>
+Python · 2%
+
+</td>
+</tr>
+</table>
+
+### Editorial
+
+> Douglas Varjão builds software in public on GitHub.
+
+### Activity forecast
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=douglas-varjao&theme=zen" alt="douglas-varjao contribution activity" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+---
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-</p>
+<div align="center"><sub>CLASSIFIEDS · <a href="https://github.com/douglas-varjao">GitHub</a> · <a href="https://douglas-varjao.github.io/">Website</a> · Printed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></div>
